@@ -156,17 +156,12 @@ park.html
 
 
 ## OUTPUT
-c:\Users\admin\OneDrive\사진\Screenshots\Map.png
-
-c:\Users\admin\OneDrive\사진\Screenshots\Museum.png
-
-c:\Users\admin\OneDrive\사진\Screenshots\fort.png
-
-c:\Users\admin\OneDrive\사진\Screenshots\FishFarm.png
-c:\Users\admin\OneDrive\사진\Screenshots\hospital.png
-
-c:\Users\admin\OneDrive\사진\Screenshots\Childrens park.png
-
+![alt text](location/app4map/static/map.png)
+![alt text](location/app4map/static/Museum.png)
+![alt text](location/app4map/static/fort.png)
+![alt text](location/app4map/static/FishFarm.png)
+![alt text](location/app4map/static/hospital.png)
+![alt text](<location/app4map/static/Childrens park.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
